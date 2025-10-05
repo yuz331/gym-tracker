@@ -5,6 +5,9 @@ README
 Web Gym Bro is built using React and JavaScript.
 It's a web-based gym tracker designed to follow workout plans and track gym progress.
 
+## Try it here
+https://webgymbro.netlify.app/
+
 ## Quick Display
 ![screenshot](src/assets/page.png)
 
